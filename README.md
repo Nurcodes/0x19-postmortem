@@ -1,4 +1,5 @@
-<img src=image.png width=50%>
+<img src=![image](https://user-images.githubusercontent.com/95445348/200190102-8a2e0b8a-2bce-4c11-a31a-4f807e4a2b28.png)
+ width=50%>
 
 # BooktifuL requests failure report
 Last week, it was reported that the BooktifuL platform was returning 500 Error on all requests made on the platform routes, all the services were down.  90% of the users were affected. The root cause was the failure of our master server web-01.
