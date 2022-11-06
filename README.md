@@ -1,4 +1,4 @@
-<img src=./image.png
+<img src=./image
  width=50%>
 
 # BooktifuL requests failure report
